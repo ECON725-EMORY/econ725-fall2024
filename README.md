@@ -76,3 +76,5 @@ Mini-Projects                |    40%     |
   * Big Data environments with Databricks and Spark
   * Data Ingestion and transformation with SQL
   * Data Visualizations and reporting in Dashboards
+
+gaby's change
