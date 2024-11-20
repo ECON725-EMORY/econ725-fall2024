@@ -153,6 +153,11 @@ class: center, middle
 - Monitor the model performance
 
 ---
+class: center, middle
+
+<img src="pics/ml_production_meme.jpeg" width="32%">
+
+---
 
 class: center, middle
 
